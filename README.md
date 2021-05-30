@@ -17,8 +17,8 @@ Currently, I'm a cybersecurity researcher at IFC working on DDoS attacks. Recent
   <br>
   <div align='center'>
               
-  ![Vitor's GitHub stats](https://github-readme-stats.vercel.app/api?username=VitorValandro&hide=contribs,issues&count_private=true&show_icons=true)
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VitorValandro&layout=compact)
+  ![Vitor's GitHub stats](https://github-readme-stats.vercel.app/api?username=VitorValandro&hide=contribs,issues&count_private=true&show_icons=true&theme=radical)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VitorValandro&layout=compact&theme=radical)
        
   </div>
   
