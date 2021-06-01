@@ -2,8 +2,8 @@
 I'm a computer technician studying at Instituto Federal Catarinense (IFC), in Brazil. I like software development and I intend to become a web developer soon.
 Currently, I'm a cybersecurity researcher at IFC working on DDoS attacks. Recently I all did was packet analysis, datascience and evaluated Machine Learning models.
 
+<hr>
 
-## 🛠 Toolbox
 <div>
   <div align='center'>
     <h3>Languages</h3>
