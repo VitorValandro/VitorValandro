@@ -22,37 +22,21 @@ Currently, I'm a cybersecurity researcher at IFC working on DDoS attacks. Recent
        
   </div>
   
-  <div align='center'>
-    <h3>Front end</h3>
-    <img src=https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB />
-    <img src=https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB />
-    <img src=https://img.shields.io/badge/Electron-2B2E3A?style=for-the-badge&logo=electron&logoColor=9FEAF9 />
-    <img src=https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=next-dot-js&logoColor=white />
-    <img src=https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white />
-    <img src=https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white />
-  </div>
-</div>
-  
-  
-  <div align='center'>
-    <h3>Server side </h3>
-      <img src=https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node-dot-js&logoColor=white />
-      <img src=https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green />
-      <img src=https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white />
-      <img src=https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white />
-      <img src=https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white />
-      <img src=https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white />
-      <img src=https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white />
-      <img src=https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white />
-      <img src=https://img.shields.io/badge/Insomnia-5849be?style=for-the-badge&logo=Insomnia&logoColor=white />
-  </div>
-  
-<div align='center'>
-  <h3>Data Science and Research</h3>
+<div>
+  <img src=https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB />
+  <img src=https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB />
+  <img src=https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=next-dot-js&logoColor=white />
+  <img src=https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white />
+  <img src=https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node-dot-js&logoColor=white />
+  <img src=https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green />
+  <img src=https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white />
+  <img src=https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white />
+  <img src=https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white />
+  <img src=https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white />
+  <img src=https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white />
+  <img src=https://img.shields.io/badge/Insomnia-5849be?style=for-the-badge&logo=Insomnia&logoColor=white />
   <img src=https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white />
   <img src=https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white />
-  <img src=https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white />
-  <img src=https://img.shields.io/badge/conda-342B029.svg?&style=for-the-badge&logo=anaconda&logoColor=white />
   <img src=https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=Selenium&logoColor=white />
   <img src=https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white />
 </div>
