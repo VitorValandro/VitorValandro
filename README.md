@@ -1,9 +1,20 @@
 ### 💡 Hi there!
-I'm a computer technician studying at Instituto Federal Catarinense (IFC), in Brazil. I like software development and I intend to become a web developer soon.
-Currently, I'm a cybersecurity researcher at IFC working on DDoS attacks. Recently all I did was packet analysis, datascience and evaluated Machine Learning models.
+I'm a web developer graduated at Instituto Federal Catarinense (IFC), in Brazil. Currently I'm studying algorithms, data structures and performance optimization in web applications. My hard skills range from Data Science, Machine Learning and Web Scrapping (acquired when I was a cybersecurity researcher working on DDoS attacks) to robotics with arduino, Game Development, RESTFul APIs, reactive Single Page Applications and design.
+My main stack is composed of JavaScript (and TypeScript), Node.js (with Express and Adonis) on the back-end, React on web front-end, React Native on mobile, relational databases and Python3 to automation of boring stuff or applied data science (data capturing, cleaning, processing and extracting info). I'm also looking for my first formal opportunity as a Junior Web Developer, so if you want to know more about me, let's connect and talk!
+
+<div align='right'>
+  <a href="mailto:vitormateusd@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
+  <a href="https://www.linkedin.com/in/vitor-valandro-da-rosa/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>                                                                                                         
+  <a href="https://pt.stackoverflow.com/users/198193/vitor-valandro" target="_blank">
+    <img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white">
+  </a>
+</div>
 
 <hr>
-
 <div>
   <div align='center'>
     <h3>Languages</h3>
